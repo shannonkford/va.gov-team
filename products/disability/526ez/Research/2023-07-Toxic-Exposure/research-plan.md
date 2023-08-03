@@ -3,13 +3,11 @@
 
 ## Background
 
-The 21-526EZ form is one of the most used VA forms and one of the largest. It is also often the first VA "service" that veterans will come into contact with, setting a precedent for their other experiecnes on VA.gov. However, it's confusing and stressful for veterans to apply for disability compensation as the process is rather opaque to the veteran. The form UX often leaves them feeling anxious and forgotten. The lack of clarity can also lead to mis-ratings, or misunderstanding of ratings, and a snowball of Appeals. 
-
-As a new team, one of our objectives is to make sure the digital form is inline with the paper form so there is little discrepency between the two. Questions regarding toxic exposure were added to the paper form following the PACT act and there is need to digitize that section within the online form. This test will allow participants to go through a prototype in which they answer questions about toxic exposure type and location before choosing a claim type to file -- claim for increase or new claim -- adding evidence and reviewing that evidence on a page where we have placed new content concerning TE. 
+Questions regarding toxic exposure were added to the paper 21-526EZ form following the PACT act and there is need to digitize that section within the online form. This test will allow participants to go through a prototype in which they answer questions about toxic exposure type, location and time frame. 
 
 **User goals:**
 
-- Sucessfully report toxic exposure so that their conditions will be presumed service-connected
+- Sucessfully report toxic exposure so that their conditions can be considered for presumptive service connection and claims processors can find toxic exposure related evidence in the Veteran's files.
 - Successfully gather evidence related to severity of their condition not service-connection, saving time collecting evidence
 
 
@@ -41,7 +39,7 @@ Are there moments that matter?
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 - Test form content clarity and comprehension
-- Test fatigue and screen weariness (as best we can in a simulation where we only show a third of the screens the typical vet will see)
+- Test fatigue and screen weariness within this subsection (we cannot currently test total effects
   
 
 ### Outcome
